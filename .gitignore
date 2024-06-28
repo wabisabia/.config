@@ -1,1 +1,5 @@
-lazy-lock.json
+*
+!.config
+!.config/*
+!.gitignore
+!README.md
